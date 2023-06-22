@@ -1,0 +1,139 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    width: 1922px;
+    height: 1010;
+    margin: auto;
+    background-color: #F6F8FB;
+    border: 2px solid black;
+}
+/* menu-open */
+.navigation{
+    width: 100%;
+    height: 67px;
+    /* border: 2px solid rgb(138, 153, 51); */
+    margin: auto;
+    display: flex;
+    
+}
+
+.headerul{
+    justify-content: space-between;
+}
+.home{
+    width: 502px ;
+    height:33px ;
+    margin: auto;
+    display: flex;
+    /* border: 2px solid red; */
+}
+
+.headerli{
+    list-style: none;
+    float: left;
+}
+
+.homea{
+     text-decoration: none;
+     color: #02073E;
+     font-size: 16px;
+     margin-right: 47px;
+     
+}
+
+.logo{
+    width: 195px;
+    height: 37px ;
+    margin: auto;
+
+}
+.buttonlink{
+    width: 150px;
+    height: 50px;
+    margin: auto;
+    background-color: #F6F8FB;
+    border: 3px solid #8D448B;
+    border-radius: 6px;
+    align-items: center;
+  
+}
+
+.registerLink{
+    color: #8D448B;
+    text-decoration: none;
+    font-size: 16px;
+    padding: auto;
+    margin: auto;
+    align-items: center;
+
+}
+/* menu-close */
+
+/* open-header-text */
+.hero{
+    width:1139 px ;
+    height: 537px;
+    border: 1px solid green;
+    
+
+}
+
+.text{
+    width: 565px ;
+    height: 451px ;
+    margin: auto;
+   border: 2px solid gold;
+    justify-content: flex-start;
+    float: left;
+    padding-left: 172px
+}
+
+.texth1{
+    width: 550px;
+    height: 242px;
+   border: 1px solid black;
+    letter-spacing: -1.5px;
+}
+.textfirsth1{
+    color: #02073E;
+    font-size: 64px;
+    line-height: 80px;
+}
+
+.textp{
+    width: 479px;
+    height: 116px;
+    align-items:center;
+    border: 2px solid rgb(0, 26, 255);
+}
+
+.textp p {
+    color:#02073E ;
+    font-size:18px ;
+    letter-spacing: 0.5px;
+    line-height: 42px;
+}
+
+.input{
+    width: 370px ;
+    height:65px ;
+}
+
+.button{
+    width: 180px ;
+    height:66px ;
+    border-radius: 4px ;
+    background-color: #8D448B ;
+    border: 2px solid #8D448B;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.feild{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 19px; 
+}
